@@ -49,7 +49,7 @@
 
   <li align="center">
 
-   <a class="url" target="_blank" href="https://www.linkedin.com/in/lucas-souza-de-jesus-543427195/" img> 
+   <a class="url" href="https://www.linkedin.com/in/lucas-souza-de-jesus-543427195/" target="_blank" img> 
 
     Linkedin
 
