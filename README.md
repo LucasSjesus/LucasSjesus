@@ -2,6 +2,8 @@
 
 <h1 align="center">Welcome to my profile 👋</h1>
 
+<h2>I am a student of Information Systems at IFBA - Federal Institute of Education, Science and Technology of Bahia (in portuguese -> Instituto Federal de Educação, Ciência e Tecnologia da Bahia) - In Brazil </h2>
+
 <h3 align="center">I am studying to be a Front-end developer</h3>
 
  <div align="center">
