@@ -19,7 +19,7 @@
    
    <img src="https://img.shields.io/badge/PHP-1572B6?style=for-the-badge&logo=PHP&logoColor=white"/>
 
-   <img src="https://img.shields.io/badge/PHP-1572B6?style=for-the-badge&logo=PHP&logoColor=white"/>
+   <img src="https://img.shields.io/badge/MYSQL-1572B6?style=for-the-badge&logo=MYSQL&logoColor=white"/>
 
 
 
